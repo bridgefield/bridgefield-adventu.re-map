@@ -1,6 +1,6 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map for bridgefield headquarters
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+If you want to use the map, use [public server](https://play.workadventu.re/_/global/dassmilytier.github.io/bridgefield-adventu.re-map/map.json?phaserMode=canvas)
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+If you like the map and want to see the office for real - or might want to work here - [get in touch with us](https://www.bridgefield.de)
 
