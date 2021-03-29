@@ -26,6 +26,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Terasse"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -44,6 +49,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"horus"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,6 +72,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"osiris"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,6 +95,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"HUB"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,6 +118,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Re"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
